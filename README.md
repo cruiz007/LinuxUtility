@@ -1,4 +1,4 @@
-#Linux Utility
+# Linux Utility
 This repository is part of a collection of utilities designed to work together seamlessly. While each utility can be used independently, the best experience comes from pulling the entire repository to your machine and leveraging them as a complete suite.
 
 ## Getting Started
