@@ -7,8 +7,7 @@ To enjoy the full benefits of these utilities, follow these steps:
 
 1. **Clone the Repository**
    ```sh
-   mkdir linuxUtility
-   cd LinuxUtility
+   mkdir linuxUtility && cd linuxUtility
    git clone https://github.com/cruiz007/LinuxUtility.git   
    ```
 
