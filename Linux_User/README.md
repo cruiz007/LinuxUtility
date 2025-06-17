@@ -16,7 +16,7 @@ This script helps with creating or deleting a user on your Linux machine. It req
 Before running the script, ensure it has execution permissions. Open a terminal and navigate to the directory where the script is located, then run:
 
 ```bash
-chmod +x user_management.sh
+chmod +x linux_manage_user.sh
 ```
 
 ### 2. Run the Script
@@ -24,7 +24,7 @@ chmod +x user_management.sh
 Since the script performs administrative tasks, it must be executed with `sudo`:
 
 ```bash
-sudo ./user_management.sh
+sudo ./linux_manage_user.sh
 ```
 
 ### 3. Follow the Prompts
