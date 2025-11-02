@@ -110,6 +110,3 @@ sudo systemctl restart systemd-resolved
 ```
 
 ---
-
-**Author:** ChatGPT  
-**Date:** 2025-11-02
