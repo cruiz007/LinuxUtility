@@ -1,5 +1,5 @@
 # Why your linux APT repository is not connecting to upstream
-**Purpose:**This is a troubelshooting guide for the apt repository
+**Purpose:** This is a troubelshooting guide for the apt repository
 # Can the Router Be a Valid Nameserver?
 
 **Yes — your router *can* be a valid nameserver**, but with some important context.
