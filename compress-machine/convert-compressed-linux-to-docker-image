@@ -1,0 +1,1 @@
+cat machine-rootfs.tar.gz | docker import - mymachine:latest
